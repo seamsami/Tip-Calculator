@@ -28,7 +28,7 @@ The Tip Calculator is a simple web application that helps users calculate the to
    https://github.com/seamsami/Tip-Calculator
 2. Navigate into the project directory:
    ```bash
-   cd tip-calculator
+   cd Tip-Calculator
     ```
  3. Open the index.html file in your preferred code editor.
 ### Running the Application
