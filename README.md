@@ -25,7 +25,7 @@ The Tip Calculator is a simple web application that helps users calculate the to
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tip-calculator.git
+   [https://github.com/seamsami/Tip-Calculator]
 2. Navigate into the project directory:
    ```bash
    cd tip-calculator
