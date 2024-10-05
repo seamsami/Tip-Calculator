@@ -27,9 +27,9 @@ The Tip Calculator is a simple web application that helps users calculate the to
    ```bash
    git clone https://github.com/yourusername/tip-calculator.git
 2. Navigate into the project directory:
-  ```bash
-    cd tip-calculator
-  ```
+   ```bash
+   cd tip-calculator
+    ```
  3. Open the index.html file in your preferred code editor.
 ### Running the Application
  1. If using Visual Studio Code, you can use the Live Server extension:
