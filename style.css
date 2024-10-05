@@ -1,0 +1,45 @@
+* {
+    font-family: "Geist Mono", monospace;
+}
+body {
+    background-color: rgb(4, 4, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+div.main {
+    padding: .45rem .45rem;
+    padding-right: .45rem;
+    display: flex;
+    flex-direction: column;
+    background-color:#383636;
+    border: solid;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+    -webkit-box-shadow: 4px -2px 136px 36px rgba(227,227,227,1);
+-moz-box-shadow: 4px -2px 136px 36px rgba(227,227,227,1);
+box-shadow: 4px -2px 136px 36px rgba(227,227,227,1);
+}
+input {
+    font-size: 1.75rem;
+    padding: .5rem .45rem;
+    padding-right: .40rem;
+    letter-spacing: 0.2ch;
+    border-radius: 6px;
+    color: rgb(253, 253, 253);
+    border-color: #1a1a1a;
+    border-style: solid;
+    background: var(--input-bg);
+    outline: none;
+    transition: border-color 0.2s, color 0.2s;
+}
+label {
+    display: block;
+    margin: 10px;
+    color: rgb(209, 199, 199);
+}
+p {
+    color: rgb(236, 78, 5);
+}
