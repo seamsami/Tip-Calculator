@@ -30,11 +30,11 @@ The Tip Calculator is a simple web application that helps users calculate the to
    ```bash
    cd Tip-Calculator
     ```
- 3. Open the index.html file in your preferred code editor.
+ 3. Open the index.htm file in your preferred code editor.
 ### Running the Application
  1. If using Visual Studio Code, you can use the Live Server extension:
-     -Right-click on the index.html file and select "Open with Live Server."
- 2. Alternatively, open the index.html file directly in your web browser.
+     -Right-click on the index.htm file and select "Open with Live Server."
+ 2. Alternatively, open the index.htm file directly in your web browser.
 ### Usage
  1. Enter the total bill amount in the "Bill" input field.
  2. Enter the desired tip percentage in the "Tip Amount" input field.
