@@ -47,7 +47,7 @@ If you would like to contribute to this project, feel free to open an issue or s
 This project is open-source and available under the MIT License.
 
 ### Acknowledgments
--Inspired by various online calculators and tutorials.
--Thanks to the contributors and developers who share their knowledge on platforms like GitHub.
+- Inspired by various online calculators and tutorials.
+- Thanks to the contributors and developers who share their knowledge on platforms like GitHub.
 ### Contact
 For any inquiries, please reach out to me at siamsami308@gmail.com
